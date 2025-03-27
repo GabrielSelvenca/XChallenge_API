@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\XChallenge_API.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D6Qhvve3CfKA2nlzxGQFg4lLg0XJqsWGIJFRvHIGCSw=",
+  "Source": "XChallenge_API",
+  "BasePath": "_content/XChallenge_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
