@@ -22,7 +22,7 @@ builder.Services.AddTransient<TokenService>();
 
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(80);
+    options.ListenAnyIP(3306);
 });
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>

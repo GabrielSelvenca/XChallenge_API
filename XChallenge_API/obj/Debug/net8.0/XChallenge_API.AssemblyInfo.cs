@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XChallenge_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a32689b4852e6194ab5323a426bd9c0e66c788cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("XChallenge_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XChallenge_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

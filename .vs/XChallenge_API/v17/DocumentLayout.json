@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\controllers\\modalidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\controllers\\modalidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\controllers\\skillscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\controllers\\skillscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\models\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\models\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\contexts\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\contexts\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Contexts\\MainContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:XChallenge_API\\Contexts\\MainContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|c:\\users\\57059750827\\source\\repos\\xchallenge_api\\xchallenge_api\\models\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC85BFC-F01B-441A-B042-0EA012330616}|XChallenge_API\\XChallenge_API.csproj|solutionrelative:xchallenge_api\\models\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +58,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "XChallenge_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "XChallenge_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T19:39:49.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\appsettings.json",
+              "RelativeDocumentMoniker": "XChallenge_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\appsettings.json",
+              "RelativeToolTip": "XChallenge_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T19:39:45.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkillsControllers.cs",
+              "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\SkillsControllers.cs",
+              "RelativeDocumentMoniker": "XChallenge_API\\Controllers\\SkillsControllers.cs",
+              "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\SkillsControllers.cs",
+              "RelativeToolTip": "XChallenge_API\\Controllers\\SkillsControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:26:39.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogoutController.cs",
+              "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\LogoutController.cs",
+              "RelativeDocumentMoniker": "XChallenge_API\\Controllers\\LogoutController.cs",
+              "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\LogoutController.cs",
+              "RelativeToolTip": "XChallenge_API\\Controllers\\LogoutController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:11:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoticiasController.cs",
+              "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\NoticiasController.cs",
+              "RelativeDocumentMoniker": "XChallenge_API\\Controllers\\NoticiasController.cs",
+              "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\NoticiasController.cs",
+              "RelativeToolTip": "XChallenge_API\\Controllers\\NoticiasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:04:06.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModalidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\ModalidadesController.cs",
+              "RelativeDocumentMoniker": "XChallenge_API\\Controllers\\ModalidadesController.cs",
+              "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\ModalidadesController.cs",
+              "RelativeToolTip": "XChallenge_API\\Controllers\\ModalidadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:54:54.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "XChallenge_API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "XChallenge_API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:43:39.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Acesso.cs",
               "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Models\\Acesso.cs",
               "RelativeDocumentMoniker": "XChallenge_API\\Models\\Acesso.cs",
@@ -47,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "XChallenge_API\\Services\\TokenService.cs",
@@ -60,33 +179,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Program.cs",
               "RelativeDocumentMoniker": "XChallenge_API\\Program.cs",
               "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Program.cs",
               "RelativeToolTip": "XChallenge_API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T17:52:27.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "XChallenge_API\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "XChallenge_API\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T17:47:38.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "MainContext.cs",
               "DocumentMoniker": "C:\\Users\\57059750827\\source\\repos\\XChallenge_API\\XChallenge_API\\Contexts\\MainContext.cs",
               "RelativeDocumentMoniker": "XChallenge_API\\Contexts\\MainContext.cs",
